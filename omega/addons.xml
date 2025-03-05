@@ -264,17 +264,17 @@ provider-name="jurialmunkey">
 </addon>
 
 <!-- SCREENSAVER -->
-<addon id="screensaver.bingie" name="Bingie Screensaver" version="1.0.0" provider-name="matke">
+<addon id="screensaver.bingie.custom" name="Bingie Screensaver" version="1.0.0" provider-name="nicolos68">
     <requires>
-        <import addon="skin.bingie" version="1.0.0"/>
+        <import addon="skin.bingie.custom" version="1.0.0"/>
     </requires>
     
     <extension point="xbmc.ui.screensaver" library="default.py"/>
     <extension point="xbmc.python.script" library="script.py"/>
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Bingie Screensaver</summary>
-        <description lang="en">Netflix styled screensaver for Bingie skin.</description>
+        <summary lang="en">Économiseur d'écran Bingie</summary>
+        <description lang="en">Économiseur d'écran de style Netflix pour le skin Bingie.</description>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
