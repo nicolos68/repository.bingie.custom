@@ -25,7 +25,7 @@
 </addon>
 
 <!-- BINGIE -->
-<addon id="skin.bingie.custom" version="1.0.3" name="Bingie.custom" provider-name="nicolos68">
+<addon id="skin.bingie.custom" version="1.0.6" name="Bingie.custom" provider-name="nicolos68">
 	<requires>
 		<import version="5.17.0" addon="xbmc.gui"/>
 		<import addon="script.bingie.helper" version="1.1.2"/>
@@ -42,7 +42,7 @@
     </extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Skin Kodi avec une présentation comme Netflix.</summary>
-		<description>Bingie – La maison de vos films et émissions préférés !</description>
+		<description>Bingie – La maison de vos films et émissions préférés!</description>
 		<platform>all</platform>
 		<license>GPL v2.0</license>
 		<forum></forum>
