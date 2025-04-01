@@ -56,7 +56,7 @@
 
 <!-- PLUGINS -->
 <addon id="plugin.video.themoviedb.helper"
-version="5.5.0"
+version="5.5.18"
 name="TMDb Helper"
 provider-name="jurialmunkey">
 <requires>
